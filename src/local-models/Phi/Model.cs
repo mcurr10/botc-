@@ -5,6 +5,7 @@
 using System.Text.Json.Serialization;
 using FluentAssertions;
 using TorchSharp;
+using TorchSharp.Tensor;
 using TorchSharp.Modules;
 using static TorchSharp.torch;
 
